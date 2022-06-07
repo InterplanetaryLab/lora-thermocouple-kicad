@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "mcu")(type "KiCad")(uri "/home/rommac/kicad/footprints/mcu")(options "")(descr ""))
+  (lib (name "max")(type "KiCad")(uri "/home/rommac/kicad/footprints/custom_footprints/max.pretty")(options "")(descr ""))
+)

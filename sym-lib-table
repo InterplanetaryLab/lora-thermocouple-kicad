@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MCU_Module")(type "Legacy")(uri "/home/rommac/kicad/symbols/mcu/MCU_Module.lib")(options "")(descr ""))
+  (lib (name "max31855")(type "KiCad")(uri "/home/rommac/kicad/symbols/max/max31855.kicad_sym")(options "")(descr ""))
+)
